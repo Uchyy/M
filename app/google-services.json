@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118506733527",
+    "project_id": "meshach-uen1",
+    "firebase_url": "https://meshach-uen1-default-rtdb.europe-west1.firebasedatabase.app",
+    "storage_bucket": "meshach-uen1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118506733527:android:dccc9ffa6a44f53cf25592",
+        "android_client_info": {
+          "package_name": "msc.uen1.M"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118506733527-gh4hfsmjnvv62gc9tvd2dhggmdh2aj4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwMnfhgbia72ThHK8R81YTDrIvu_xtTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118506733527-gh4hfsmjnvv62gc9tvd2dhggmdh2aj4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

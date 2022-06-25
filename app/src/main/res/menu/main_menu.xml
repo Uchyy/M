@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/folder"
+        android:icon="@drawable/folder"
+        android:title="folder"
+        app:showAsAction="always"
+
+        />
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@color/white"
+        android:title="Search"
+        android:visible="true"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always"
+
+        />
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/help"
+        android:title="help"
+        app:showAsAction="always"
+
+        />
+
+</menu>

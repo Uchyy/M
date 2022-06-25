@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.fragment_two">
+
+    <EditText
+        android:id="@+id/editTextTextMultiLine2"
+        android:layout_width="match_parent"
+        android:layout_height="426dp"
+        android:background="@drawable/rounded"
+        android:ems="10"
+        android:gravity="center"
+        android:enabled="false"
+        android:inputType="none"
+        android:letterSpacing="0.2"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Club foot affects about 1 baby in every 1,000 born in the UK. Both feet are affected in about half of these babies. It's more common in boys."
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+</FrameLayout>

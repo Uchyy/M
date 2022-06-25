@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.fragment_zero">
+
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:id="@+id/editTextTextMultiLine0"
+        android:layout_width="match_parent"
+        android:layout_height="426dp"
+        android:background="@drawable/rounded"
+        android:ems="10"
+        android:gravity="center"
+        android:enabled="false"
+        android:inputType="none"
+        android:letterSpacing="0.2"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Welcome to M:\n\nHere are some important notes about Clubfoot:\n\nSwipe right to begin "
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+</FrameLayout>
