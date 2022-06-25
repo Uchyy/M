@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.fragment_one">
+
+    <EditText
+        android:id="@+id/editTextTextMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="426dp"
+        android:background="@drawable/rounded"
+        android:ems="10"
+        android:enabled="false"
+        android:gravity="center"
+        android:hint="In club foot, 1 foot or both feet point down and inwards with the sole of the foot facing backwards."
+        android:inputType="none"
+        android:letterSpacing="0.2"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+</FrameLayout>

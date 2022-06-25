@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M</string>
+    <string-array name="spinner_options">
+        <item>Attach from:</item>
+        <item>From this device</item>
+        <item>Take a Photo</item>
+    </string-array>
+    <string name="photos">Photos: </string>
+</resources>
